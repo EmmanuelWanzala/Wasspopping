@@ -16,6 +16,9 @@ The user should be able to:
 
 -Click on an article and read it fully from the news source
 
+## LIVE LINK TO THE PROJECT
+
+
 
 ## SET UP INSTRUCTIONS
 
@@ -26,6 +29,7 @@ The user should be able to:
 -git clone ` `
 
 -cd Wasspopping
+
 
 ## HOW  TO RUN THE APPLICATION
 
