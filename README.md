@@ -1,6 +1,6 @@
 ## WASSPOPPING
 
-This is a news application that allows users to view news from various news sources around the world
+This is a news application that allows users to view news from various news sources around the world.
 
 ## USER STORIES
 
@@ -62,7 +62,9 @@ To run the application, in your terminal:
   $ ./start.sh
 
 
+## LICENSE
 
+MIT LICENSE : https://spdx.org/licenses/MIT.html
 
 ## CONTACTS
 
